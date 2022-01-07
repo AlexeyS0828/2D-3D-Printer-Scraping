@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "d-printers-325807",
+  "private_key_id": "2e0554b14f5db83df7065807bf74621c86ade833",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1nYJdqudAnW7w\nab6TOj8iL7ZAPDcKhJZM65Uu+O5ixSyBMOVEZovY3gxR7O+rmFu0kCnhqlCNPRRJ\nNwSru/AaO+m+2hO+WDfWmt1b0JY5BfogDpXxnCVBJxyFYQ8NXP42a8LQWYZejOzP\nUZxmw3AjaGcKssGMRLyVvX8oMcbs96TMXkz/QK1DcOuUAk7tstevJgqGblIT53Hb\nJ9IKemYp+y0wjcT+Bg/VBFwptDD62+5F885jue+Tu3k9uCF/1pu6XoVlmYp0aAl6\n1wER0Erfca0QDGk1jByT7lSsuagJ6iVM8tX8EWqZXbAi8VS39eC5Mq2Umhu3fw7T\n78oPqsc9AgMBAAECggEAGVTX2yK8UJnk4GmPaE+mgKkw/XKoprHpmN7/FucnsOUZ\nmQdt4wV+mggWpdKrdz6wA9Zb0RsFUz3it3eSEjYLfk0/BBy8xj7dwvQkzeqhGWEJ\nCzGdnm6OD7FZ3Ay2ocGHv6V2LcNe5482dJBIhVjbKkUkoixerKbluukMdFnFCkYg\nMFhwD96i0laiaahB9Lky32M0jANyqJDmxZ5GQyqgP5pOmbftyXxd3g0e01nVEyEZ\nPQUXYThek3mII34NaMazet7hi3HjywCXL2qEuVcGYKMLgciF38OPAaSIE8OYMGvG\nAEfmgIuvIFYZTkPX5y37oev8r0pzrjpLQbufUeKeTQKBgQDbffxKUcDFp8xf6o5z\nYdwmX7urXw36dV3t8+W1wUFcJBRqeshxcisiOOICT1zXfOBAevp4My5Qm8v8zCvv\ncDqSNWZfVLtswONp29oCrCRY53w699x8wE3WPx3k7pu5A6jyPwDRo/dzLWRzQZtA\nc1TI3zvACTGOpp4Kg8Ra1oY2RwKBgQDT0rheXBh12X6a1TTpYa+NTnYNSXzG+DIZ\nm3IPQEOdGj75ClVKGMaHtqfp33nQCpEbYDUBb4mGuE21RDN57andZPoKnHa9iGDp\nOEWNdEUIPhnnsfcxmJMGwLR+oiYAKdnYvA87pJRqovhviEYjpH71oZJe2QlN8zi+\nvwwtu1CkWwKBgDfTooDQrGRZmozm3taQFGuaO+SJp8eFZJ+qQknpXpNuBddTZXod\nXMU2jJ2jy+xvMaaU4PIDqosMJWUmFSKwe+VGOcSTi5xMr0r0hU3atN/7+MgS1PzR\n+Lo+kX7yBZ+YQ7dhuPaZas3bxMnf7PoGm5D/3nWooPc0f8wS2bV1DOvvAoGAB4Vo\n5HjSqYSSeT7uxQah7BuIF4qvcoUnij85uo7ml7Jx3/fc9WeRzQnQRn6X3aoyYs10\ntFtYf78Vi0UjqsWkjWbjdfL+SFaKUl2cIpypQtSpqM9p3onzVn8LKZ/qR4E06fwr\nckuytWKZ/aPSEbvqgiA9iT6dlPX44tT3wrvu7hcCgYEAg/naujvMHDtx9wbZlaKq\npdKtf3gJXoWs/LltSQTHx1f1uPKUUdXaV1ULXbQdIUPxlquKJsSGeKXwT9uQMUN6\njDbEpierdvjH7eMOBaAVLstjqnIxaD1Kd60RKRn9KqyfQC0wtypkfcP4kcnvkIsk\nnVJa1oh2VsSksfQAcJYAHmo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-d-printer@d-printers-325807.iam.gserviceaccount.com",
+  "client_id": "101570597885348045313",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-d-printer%40d-printers-325807.iam.gserviceaccount.com"
+}
